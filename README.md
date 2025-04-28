@@ -3,7 +3,7 @@
 Forecast flight delays for the next 12 time periods using historical flight data.
 
 **Data**:  
-- Source: Provided delayed flight dataset (`DelayedFlights.csv`)
+- Source: Provided delayed flight dataset [`DelayedFlights.csv`](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
 - Description: Includes flight numbers, departure/arrival delays, scheduled and actual times.
 
 **Data Mining Operations**:  
